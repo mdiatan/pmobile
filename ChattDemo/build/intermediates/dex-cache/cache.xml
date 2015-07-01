@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\ChattDemo\app\libs\Parse-1.9.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fe739334780fe321141e62720822c2d456061899">
+        <dex dex="E:\ChattDemo\app\build\intermediates\pre-dexed\debug\Parse-1.9.2-6c93c2fd1dd8e17f2e2068d991016bd3f6048e1d.jar" />
+    </item>
+    <item
+        jar="C:\Users\win7\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="E:\ChattDemo\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-1a2395d3c9c32aac069d8ecf9bfe9dc1bb5358a0.jar" />
+    </item>
+    <item
+        jar="E:\ChattDemo\app\libs\bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="E:\ChattDemo\app\build\intermediates\pre-dexed\debug\bolts-android-1.2.0-ad8f03304ea0b21fc5c4f67a019a96c8a455707d.jar" />
+    </item>
+
+</items>
